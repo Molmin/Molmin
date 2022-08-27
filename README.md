@@ -21,3 +21,9 @@ My project:
 **Q:** My English name is "Milmon". But why my user name is "Molmin"?
 
 **A:** Because when I registered my account, user name "Milmon" was already occupied.
+
+---
+
+<https://github.com/Molmin/molmin.github.io/upload/main/file/image/other>
+
+https://molmin.github.io/file/image/other/x.png
