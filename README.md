@@ -6,13 +6,13 @@ My site: <https://molmin.github.io/>
 
 My project:
 
-- Web Site Systems
-  - [Milmon Page](https://github.com/Molmin/Milmon-Page) (Building...)
+- **Web Site Systems**
+  - [**Milmon Page**](https://github.com/Molmin/Milmon-Page) (Building...)
     
     Example Site: <https://molmin.github.io/>
 
-- Games
-  - [MilGet](https://github.com/Molmin/MilGet) (Building...)
+- **Games**
+  - [**MilGet**](https://github.com/Molmin/MilGet) (Building...)
     
     Play it: <https://molmin.github.io/games/milget/>
 
