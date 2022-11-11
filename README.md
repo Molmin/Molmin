@@ -16,6 +16,8 @@ My project:
     
     Play it: <https://molmin.github.io/games/milget/>
 
+![](https://github-readme-stats.vercel.app/api?username=Molmin)
+
 ---
 
 **Q:** My English name is "Milmon". But why my user name is "Molmin"?
