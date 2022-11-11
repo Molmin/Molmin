@@ -16,7 +16,9 @@ My project:
     
     Play it: <https://molmin.github.io/games/milget/>
 
-![](https://github-readme-stats.vercel.app/api?username=Molmin)
+[![](https://github-readme-stats.vercel.app/api?username=Molmin&show_icons=true)](https://molmin.github.io/)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Molmin&show_icons=true)](https://molmin.github.io/)
 
 ---
 
