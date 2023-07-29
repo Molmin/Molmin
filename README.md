@@ -32,6 +32,8 @@ My project:
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Molmin&layout=compact&show_icons=true)](https://molmin.github.io/)
 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Molmin)](https://molmin.github.io/)
+
 ---
 
 **Q:** My English name is "Milmon". But why my user name is "Molmin"?
